@@ -45,5 +45,5 @@ In this way, you can make various types of custom Iterator using Keras.
 ## TODO list
 
 - [x] Custom DirectoryIterator class
-- [ ] Detailed example code
+- [x] Detailed example code
 
